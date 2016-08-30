@@ -1,5 +1,6 @@
 ::James Meers
 ::Simple batch to automate building a Cordova project
+::https://github.com/jmeers/CordovaWizard
 :start
 TITLE Cordova Project Wizard
 ::Cordova projects folder
